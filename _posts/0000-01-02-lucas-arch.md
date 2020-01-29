@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Doesn’t expecting the unexpected make the unexpected expected?
 Use the left arrow to go back!
